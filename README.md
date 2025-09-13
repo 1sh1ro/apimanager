@@ -138,11 +138,9 @@ python gui_apikey_manager.py
 - ✅ Python 3.7+
 - ✅ 20MB 存储空间
 
-## 🤝 加入社区
+## 🤝 联系我
 
 📱 **关注小红书**: 俱往矣
-<img width="593" height="252" alt="image" src="https://github.com/user-attachments/assets/a5016612-3509-4a76-8fa4-1495569e6a56" />
-
 🐙 **GitHub**: https://github.com/1sh1ro/apimanager.git
 
 ## 📄 开源协议
