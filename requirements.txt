@@ -1,0 +1,22 @@
+# API Key Manager 依赖包
+
+# GUI界面库 (通常随Python安装)
+# tkinter - Python标准库，无需额外安装
+
+# 数据库
+# sqlite3 - Python标准库，无需额外安装
+
+# 网络请求 (用于获取模型列表)
+requests>=2.25.0
+
+# JSON处理 (Python标准库)
+# json - Python标准库，无需额外安装
+
+# 系统剪贴板操作 (可选，增强复制功能)
+pyperclip>=1.8.0
+
+# 开发和测试工具 (可选)
+pytest>=6.0.0
+
+# 注意：本项目主要使用Python标准库，依赖极少！
+# 只需要Python 3.7+即可运行
